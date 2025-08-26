@@ -1,7 +1,7 @@
 # Calendar Plugin
 
 ## Overview
-The Calendar plugin allows server administrators to schedule events at specific dates and times. Users can view upcoming events using the `/calendar` command, and view past events with a separate button. The system is form-based, with an admin-only editor accessible via `/calendar edit`.
+The Calendar plugin allows server administrators to schedule events at specific dates and times. Users can view upcoming events using the `/calendar view` command, and view past events with a separate button. The system is form-based, with an admin-only editor accessible via `/calendar edit`.
 
 ## Features
 - Schedule server events with title, description, date, time, and location
@@ -20,7 +20,6 @@ The Calendar plugin allows server administrators to schedule events at specific 
 ## Usage
 
 ### For Users
-- `/calendar` or `/cal` - Open the main calendar menu
 - `/calendar view` - View upcoming and past events
 
 ### For Administrators
