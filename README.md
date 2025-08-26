@@ -107,7 +107,7 @@ max_events_display: 10
 - CoreAPI - Required for commands, forms, and other functionality
 
 ## Support
-If you encounter any issues or have suggestions for improvements, please report them on the [GitHub repository](https://github.com/JonasWindmann/Calendar/issues).
+If you encounter any issues or have suggestions for improvements, please report them on the [GitHub repository](https://github.com/DerCooleVonDem/Calendar/issues).
 
 ## License
 This plugin is licensed under the MIT License. See the LICENSE file for details.
