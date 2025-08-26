@@ -1,0 +1,7 @@
+# Calendar Plugin Configuration
+
+# Whether to show the current/upcoming event when a player joins
+show_on_join: false
+
+# Maximum number of events to display in the list
+max_events_display: 10
