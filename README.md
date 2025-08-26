@@ -12,7 +12,7 @@ The Calendar plugin allows server administrators to schedule events at specific 
 - Form-based interface using CoreAPI
 
 ## Installation
-1. Make sure you have [CoreAPI](https://github.com/JonasWindmann/CoreAPI) installed
+1. Make sure you have [CoreAPI](https://github.com/DerCooleVonDem/CoreAPI) installed
 2. Place the Calendar plugin in your server's `plugins` folder
 3. Restart your server
 4. Configure the plugin settings (optional)
