@@ -67,8 +67,7 @@ class Main extends PluginBase implements Listener {
             TextFormat::GREEN . "Title: " . TextFormat::WHITE . $event->getTitle() . "\n" .
             TextFormat::GREEN . "Date: " . TextFormat::WHITE . date("Y-m-d H:i", $event->getTimestamp()) . "\n" .
             TextFormat::GREEN . "Location: " . TextFormat::WHITE . $event->getLocation() . "\n\n" .
-            TextFormat::GREEN . "Description: " . TextFormat::WHITE . $event->getDescription() . "\n\n" .
-            TextFormat::GRAY . "This notification will close automatically...",
+            TextFormat::GREEN . "Description: " . TextFormat::WHITE . $event->getDescription() . "\n\n",
             function (Player $player, ?int $buttonIndex) {
                 // This callback will be called when the form is closed
                 // No action needed as this is just a notification
